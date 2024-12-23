@@ -5,7 +5,7 @@ To provide an in-depth analysis of the ECOM_Supply dataset. The objective is to 
 
 ## Dataset Used
 
-
+<a href="https://github.com/Sagar472820/ECOM_Supply_Analysis_Excel/blob/main/ECOM_Supply%20Chain.xlsx"> ECOM_Dateset </a>
 
 ## Data Fields Overview
  - Order ID: Unique identifier for each order.
@@ -69,4 +69,12 @@ To provide an in-depth analysis of the ECOM_Supply dataset. The objective is to 
  
 ### Dashboard Interaction       
 
+<a href="https://github.com/Sagar472820/ECOM_Supply_Analysis_Excel/blob/main/ECOM_Supply%20Chain.xlsx"> ECOM_Dashboard </a>
+
 ### Dashboard Review
+
+![ECOM_Sales_Dash](https://github.com/user-attachments/assets/6f1a9f3e-8f68-4658-98a6-7b25fe6e092b)
+
+## Conslusion
+
+This report outlines a comprehensive approach to analyze the ECOM_Supply dataset using Excel. The insights gained from this analysis will enable better supply chain decisions, improve supplier relationships, and enhance operational efficiency.
